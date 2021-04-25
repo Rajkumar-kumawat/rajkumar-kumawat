@@ -8,6 +8,6 @@
 - 💬 Ask me about My name is Rajkumar Kumawat , I am an ethical hacker || pentester || a computer scientist. I just love hacking and breaking the rules, but don’t get me wrong as I said I am an ethical hacker.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ....!!!##
--->
- https://github-readme-stats.vercel.app/api?username=Rajkumar-kumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajkumar-kumawat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
